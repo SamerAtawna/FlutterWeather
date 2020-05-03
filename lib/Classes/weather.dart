@@ -1,11 +1,12 @@
 class Weather{
-  Map<String, dynamic> _coords;
+  Map<String, dynamic> coords;
   List<dynamic> weather;
   Map<String, dynamic> main;
   Map<String, dynamic> wind;
+  Map<String, dynamic> sys;
 
   
-  Weather(this._coords, this.weather, this.main, this.wind);
+  Weather(this.coords, this.weather, this.main, this.wind, this.sys);
 
 
 }
