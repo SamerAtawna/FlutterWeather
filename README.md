@@ -1,4 +1,4 @@
-# test2app
+# FlutterWeather
 Flutter weather app.
 
 ![alt text](https://github.com/SamerAtawna/MediaPlayer-Flutter/blob/master/screenshot.jpg)
